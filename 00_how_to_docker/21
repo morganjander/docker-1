@@ -1,0 +1,3 @@
+#I'm using Docker for Desktop on WSL 2, so I don't need a VM, but
+#I believe the command is:
+docker-machine create --driver virtualbox Aiur
